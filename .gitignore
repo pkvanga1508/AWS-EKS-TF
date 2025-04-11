@@ -24,3 +24,17 @@ out/production/AWS-EKS-TF/.idea/dbnavigator.xml
 out/production/AWS-EKS-TF/.idea/misc.xml
 out/production/AWS-EKS-TF/.idea/modules.xml
 out/production/AWS-EKS-TF/.idea/vcs.xml
+02-Terraform-Settings-providers-resources/terraform-manifests/terraform.tfstate
+02-Terraform-Settings-providers-resources/terraform-manifests/terraform.tfstate.backup
+terraform-keypair.pem
+03-Terraform-input-output-data/terraform_manifests/terraform.tfstate
+03-Terraform-input-output-data/terraform_manifests/terraform.tfstate.backup
+03-Terraform-input-output-data/terraform_manifests/.terraform/providers/registry.terraform.io/hashicorp/aws/5.94.1/darwin_arm64/LICENSE.txt
+03-Terraform-input-output-data/terraform_manifests/.terraform/providers/registry.terraform.io/hashicorp/aws/5.94.1/darwin_arm64/terraform-provider-aws_v5.94.1_x5
+04-Lists-Maps-MetaArguments/terraform_manifests/.terraform.lock.hcl
+04-Lists-Maps-MetaArguments/terraform_manifests/.terraform/providers/registry.terraform.io/hashicorp/aws/5.94.1/darwin_arm64/LICENSE.txt
+04-Lists-Maps-MetaArguments/terraform_manifests/.terraform/providers/registry.terraform.io/hashicorp/aws/5.94.1/darwin_arm64/terraform-provider-aws_v5.94.1_x5
+03-Terraform-input-output-data/terraform_manifests/.terraform.lock.hcl
+04-Lists-Maps-MetaArguments/terraform_manifests/terraform.tfstate
+04-Lists-Maps-MetaArguments/terraform_manifests/.terraform.tfstate.lock.info
+04-Lists-Maps-MetaArguments/terraform_manifests/terraform.tfstate.backup
